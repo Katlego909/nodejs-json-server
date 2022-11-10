@@ -1,0 +1,36 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Ken",
+            "email": "ken@email.com",
+            "profile": "https://images.unsplash.com/photo-1592992584424-bb6c75136025?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+            "status": "Active",
+            "role": "Admin"
+        },
+        {
+            "id": 2,
+            "name": "James",
+            "email": "jameso@email.com",
+            "profile": "https://images.unsplash.com/photo-1648183185045-7a5592e66e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=542&q=80",
+            "status": "Inactive",
+            "role": "Owner"
+        },
+        {
+            "id": 3,
+            "name": "Bill",
+            "email": "bill@email.com",
+            "profile": "https://images.unsplash.com/photo-1596935884413-260a972dab44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60",
+            "status": "Active",
+            "role": "Admin"
+        },
+        {
+            "id": 4,
+            "name": "Nancy",
+            "email": "nancy@email.com",
+            "profile": "https://images.unsplash.com/photo-1645220127443-5cc472ce6165?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZW1wbG95ZWV8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "status": "Inactive",
+            "role": "Owner"
+        }
+    ]
+}
